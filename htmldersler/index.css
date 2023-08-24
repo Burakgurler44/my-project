@@ -1,0 +1,61 @@
+img{
+    width: 350px;
+    height: 530px;
+    padding-left: 60px;
+    border-radius: 10px;
+    
+   
+}
+body{
+    background-color: rgb(231, 222, 209);
+}
+p#yazi{
+    font-family: 'Bebas Neue', sans-serif;
+font-family: 'Caprasimo', cursive;
+font-family: 'Capriola', sans-serif;
+font-family: 'Changa', sans-serif;
+font-family: 'Oswald', sans-serif;
+
+}
+
+h2{
+
+    
+font-family: 'Anton', sans-serif;
+font-family: 'Bebas Neue', sans-serif;
+font-family: 'Caprasimo', cursive;
+font-family: 'Capriola', sans-serif;
+font-family: 'Changa', sans-serif;
+font-family: 'Oswald', sans-serif;  
+    margin-left: 10px;
+    font-size: 30px;
+}
+
+    
+
+div{
+    border-radius: 10px;
+
+}
+
+
+#buton{
+    background-color: rgb(69, 115, 69);
+    text-decoration: none;
+    height: 60px;
+    width: 300px;
+    border-radius: 10px;
+    
+
+}
+.yazi2{
+    color: rgb(58, 96, 58);
+    
+
+}
+#yazi{
+    font-size: 20px;
+}
+#buton:hover{
+    background-color: darkgreen;
+}
